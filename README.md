@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on batch file to help IT professionals.
 - 📫 How to reach me yonirisraeli@gmail.com.
 - 😄 Pronouns: He/him/his.
-- ⚡ Fun fact: YonatanReuvenIsraeli has 4 years of experience in the it field.
+- ⚡ Fun fact: YonatanReuvenIsraeli has 4 years of experience in the IT field.
 - 🔗 Website: https://sites.google.com/view/yonatanreuvenisraeligithub.
 
 <!---
