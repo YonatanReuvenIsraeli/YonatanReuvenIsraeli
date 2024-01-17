@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CompTIA Network+.
 - 💞️ I’m looking to collaborate on batch files to help IT professionals.
 - 📫 How to reach me yonirisraeli@gmail.com.
-- 😄 Pronouns: he/him.
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: Yonatan Israeli has 4 years of experience in the IT field.
 - 🔗 Website: https://sites.google.com/view/yonatanreuvenisraeligithub.
 
