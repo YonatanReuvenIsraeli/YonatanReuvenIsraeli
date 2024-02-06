@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Yonatan Israeli has 4 years of experience in the IT field.
 - 🔗 Website: https://sites.google.com/view/yonatanreuvenisraeligithub
+- 🐛 Report Bug: https://sites.google.com/view/yonatanreuvenisraeligithub/report-bug
 
 <!---
 YonatanReuvenIsraeli/YonatanReuvenIsraeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
