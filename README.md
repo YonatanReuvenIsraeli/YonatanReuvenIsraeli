@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Yonatan Israeli has 4 years of experience in the IT field.
 - 🔗 Website: https://sites.google.com/view/yonatanreuvenisraeligithub
-- 🐛 Report Bug: https://sites.google.com/view/yonatanreuvenisraeligithub/report-bug
+- 🐛 Report bug: https://sites.google.com/view/yonatanreuvenisraeligithub/report-bug
 - 💡 Suggestions: https://sites.google.com/view/yonatanreuvenisraeligithub/suggestions
 
 <!---
