@@ -5,6 +5,8 @@
 - 📫 How to reach me: yonatanreuvenisraeli@gmail.com
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Yonatan Israeli has 4 years of experience in the IT field.
+- 🐛 Report bug: yonatanreuvenisraeli@gmail.com
+- 💡 Suggestions: yonatanreuvenisraeli@gmail.com
 
 <!---
 YonatanReuvenIsraeli/YonatanReuvenIsraeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
