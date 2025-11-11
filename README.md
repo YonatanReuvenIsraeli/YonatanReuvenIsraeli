@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Yonatan Israeli has 5 years of experience in the IT field.
 - 🐛 Report bug: yonatanreuvenisraeli@gmail.com
 - 💡 Suggestions: yonatanreuvenisraeli@gmail.com
-- ⚠️ I take no responsibilty for anything that happens from my repositories.
+- ⚠️ I take no responsibilty for anything that happens from my repositories. Use at your own risk.
 
 <!---
 YonatanReuvenIsraeli/YonatanReuvenIsraeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
